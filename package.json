@@ -1,6 +1,7 @@
 {
   "name": "vaza-do-gremio",
   "version": "0.1.0",
+  "homepage": "build/",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.8",
