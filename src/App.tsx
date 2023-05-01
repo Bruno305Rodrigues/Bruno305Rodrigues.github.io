@@ -18,7 +18,7 @@ function App() {
         padding: '5px'
       }}
       >
-        <Typography variant='h2'>Tempo para o fim do contrato</Typography>
+        <Typography variant='h2'>Tempo para o fim do contrato - Aleluia</Typography>
       </Box>
       <Grid container spacing={2}>
         <CountdownTimer
